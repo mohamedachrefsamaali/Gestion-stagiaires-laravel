@@ -1,0 +1,19 @@
+footer div div div ul h5{
+    color: #ef4444
+}
+li a {
+    text-decoration: none;
+    color: white;
+}
+li p{
+    color: white;
+}
+footer{
+    background-color: #D1CFCF ;
+    margin-top: 10%;
+    padding-top: 2%;
+}
+.form-label{
+    font-weight: bold;
+}
+
